@@ -1,4 +1,5 @@
 # Udemy -clone
+Udemy clone website made using html css and JS.
 We are passionate about fostering a community dedicated to education and continuous learning. Our platform is designed to inspire and empower learners of all ages and backgrounds.
 What sets us apart is our commitment to providing high-quality, accessible, and engaging educational content. Our team of experienced educators, subject matter experts, and industry professionals collaborate to curate a diverse range of courses, articles, and resources. We strive to cater to various learning styles, ensuring that our content is both informative and enjoyable.
 Our mission is to break down barriers to education and make learning a truly enriching experience for everyone. We leverage the latest in technology to create an interactive and dynamic learning environment, fostering a sense of curiosity and discovery. 
